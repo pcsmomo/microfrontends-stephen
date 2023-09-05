@@ -105,4 +105,13 @@ It will build `dist/main.js`
 
 Navigate `http://localhost:8081/main.js` after changing `webpack` -> `webpack serve`, you will see the contents of `dist/main.js`
 
+### 14. Scaffolding the Container
+
+```sh
+cd 01-ecomm-plain/container
+npm start # webpack
+```
+
+and navigate `http://localhost:8080`
+
 </details>
