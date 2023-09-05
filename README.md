@@ -2,6 +2,35 @@
 
 Microfrontends with React: A Complete Developer's Guide by Stephen Grider
 
+## Folder structure
+
+### First app - plain javascript
+
+- 01-mfe
+  - Section 1: The Basics of Microfrontends
+  - Section 2: The Basics of Module Federation
+  - Section 3: Sharing Dependencies Between Apps
+
+### Second app
+
+- 04-app
+  - Section 4: Linking Multiple Apps Together
+  - Section 5: Generic Ties Between Projects
+- 06-dep
+  - Section 6: Implementing a CI/CD Pipeline
+  - Section 7: Deployment to Amazon Web Services
+  - Section 8: Microfrontend-Specific AWS Config
+- 09-mfp
+  - Section 9: Handling CSS in Microfrontends
+- 10-route
+  - Section 10: Implementing Multi-Tier Navigation
+- 11-wrap
+  - Section 11: Performance Considerations
+- 12-auth
+  - Section 12: Authentication in Microfrontends
+- 13-dash
+  - Section 13: Using Other Frontend Frameworks
+
 # Details
 
 <details open>
