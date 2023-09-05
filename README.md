@@ -114,4 +114,18 @@ npm start # webpack
 
 and navigate `http://localhost:8080`
 
+## Section 2: The Basics of Module Federation
+
+### 15. Implementing Module Federation
+
+- Designate one app as the Host (Container) and one as the remote (Products)
+- in the Remote, decide which modules (files) you want to make available to other projects
+- Set up Module Federation plugin to expose those files
+- in the Host, decide which files you want to get from the remote
+- Set up Module Federation plugin to fetch those files
+- In the Host, refactor the entry point to load asynchronously
+- In the Host, import whatever files you need from the remote
+
+after refactoring, restart two services, `products` and `container` and navigate localhost:8080 again
+
 </details>
