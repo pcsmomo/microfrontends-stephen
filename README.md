@@ -101,4 +101,8 @@ npm start # webpack
 
 It will build `dist/main.js`
 
+### 11. A Touch More on Webpack
+
+Navigate `http://localhost:8081/main.js` after changing `webpack` -> `webpack serve`, you will see the contents of `dist/main.js`
+
 </details>
