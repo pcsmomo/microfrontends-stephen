@@ -92,4 +92,13 @@ Microfrontends with React: A Complete Developer's Guide by Stephen Grider
 - Most flexible and performant solution around right now
 - Be aware - we will spend a lot of time focusing on Webpack and how it works
 
+### 10. Some Background on Webpack
+
+```sh
+cd 01-ecomm-plain/products
+npm start # webpack
+```
+
+It will build `dist/main.js`
+
 </details>
